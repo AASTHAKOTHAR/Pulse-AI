@@ -1,10 +1,4 @@
 # Pulse-AI
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Status](https://img.shields.io/badge/Status-In%20Progress-lightgrey)
-<h1 align="center">🫀 Heart Disease Prediction using <br> <code>TAB-HRAE-LSTM</code></h1>
-
 <p align="center">
   <b>A Hybrid Deep Learning Approach combining Autoencoder and LSTM</b>  
 </p>
@@ -54,19 +48,38 @@
 </details>
 
 ---
+## 🧠 Tech Stack
 
-## 🛠 Tech Stack
+| Layer            | Technologies Used |
+|------------------|-------------------|
+| 🧪 Data Science  | `Pandas`, `NumPy`, `Seaborn`, `Matplotlib` |
+| 🤖 ML Algorithms | `Scikit-Learn`, `XGBoost` |
+| 🧠 Deep Learning | `Keras`, `TensorFlow`, `LSTM`, `Autoencoder` |
+| 🧮 Feature Tools | `SMOTE`, `Extra Trees`, `MinMaxScaler` |
+| 📁 Deployment    | Streamlit & Firebase (coming soon) |
 
-| Layer | Technologies Used |
-|-------|-------------------|
-| 🔬 Data Science | `NumPy`, `Pandas`, `Seaborn`, `Matplotlib` |
-| 🧠 ML/DL Models | `Scikit-Learn`, `XGBoost`, `Keras`, `TensorFlow` |
-| 📊 Visualization | `Matplotlib`, `Seaborn`, `Streamlit` |
-| 🔥 Backend | `Firebase` (for real-time database) |
-| 🧪 Dataset | [UCI Cleveland Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/heart+Disease) |
 
 ---
 
-## 🧱 Project Structure
+---
+
+## ⚙️ How to Run (Locally)
+
+> ✅ The model training and results are available through the notebook.  
+> 🚫 Web app interface will be added in future updates.
+
+### 🔧 Steps
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/yourusername/heart-disease-tab-hrae-lstm.git
+cd heart-disease-tab-hrae-lstm
+
+# 2. Install required Python packages
+pip install -r requirements.txt
+
+# 3. Launch Jupyter Notebook
+jupyter notebook notebooks/EDA_and_Modeling.ipynb
+
 
 
