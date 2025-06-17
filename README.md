@@ -80,6 +80,18 @@ pip install -r requirements.txt
 
 # 3. Launch Jupyter Notebook
 jupyter notebook notebooks/EDA_and_Modeling.ipynb
+---
+
+## ⚠️ License & Disclaimer
+
+This project is the original work of Aastha Kothari (Manipal University Jaipur).  
+It is protected under the **Creative Commons BY-NC-ND 4.0 license**.
+
+> ❌ Commercial use, reproduction, or distribution without explicit permission is strictly prohibited.  
+> 📧 For collaboration or academic reuse, contact: [kothariaastha345@gmail.com](mailto:kothariaastha345@gmail.com)
+
+
+
 
 
 
